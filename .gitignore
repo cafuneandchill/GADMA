@@ -45,3 +45,4 @@ gadma/version.py
 build/*
 gadma.egg-info/*
 dist/*
+/.idea/workspace.xml
